@@ -1,3 +1,5 @@
+#업다운게임
+
 import random
 
 def up_down_game():

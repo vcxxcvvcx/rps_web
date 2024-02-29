@@ -1,3 +1,5 @@
+#가위바위보게임
+
 import random
 
 def rock_paper_scissors():
